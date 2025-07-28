@@ -125,3 +125,5 @@ We envision a future where digital nomads can travel the world with confidence, 
 - **Carbon-Neutral Operations**: Offset all blockchain operations with verified carbon credits
 
 This project represents the beginning of a new era in insurance - one that's fair, transparent, and designed for the digital-first, location-independent future of work.
+<img width="1837" height="871" alt="image" src="https://github.com/user-attachments/assets/ba41f114-7f54-42ec-b94c-8a14cba334c3" />
+
